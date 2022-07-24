@@ -260,3 +260,11 @@ https://dou.ua/lenta/articles/interview-questions-go-developer/
 #### 6. Как готовиться к техническому собеседованию на позицию Golang-разработчика? (2020)
   https://www.youtube.com/watch?v=FNMddHRPc9U
 
+#### 7. Go Backend Developer Роман (+ Go Web server example) #интервью со спецом (2020)
+  https://www.youtube.com/watch?v=hGOLfbw5ZWk
+
+#### 8. Общение с крутым Go-разрабом (2021)
+  https://www.youtube.com/watch?v=Rupo8qHYbPc
+
+### Tips / mistakes
+#### 1. http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/

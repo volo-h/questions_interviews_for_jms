@@ -236,3 +236,19 @@ Output: True
 ###### 70.Знайдіть максимальну суму шляху в трикутнику. (Подано числа у формі трикутника, починаючи з верхньої частини трикутника і рухаючись до сусідніх чисел у рядку внизу, знаходимо максимальну загальну кількість зверху вниз.)
 
 https://dou.ua/lenta/articles/interview-questions-go-developer/
+
+
+### Собеседования + интервью
+#### 1. Открытое собеседование на Go-разработчика | Анонс менторской программы (2022)
+  https://www.youtube.com/watch?v=W_ctQFFnzK0
+
+#### 2. Самое полное интервью Golang Middle (2022)
+  https://www.youtube.com/watch?v=ryJOS-8hmQo
+  +
+  https://www.youtube.com/results?search_query=%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E+Golang
+
+#### 3. Открытое собеседование на Go-разработчика | Навыки
+  https://www.youtube.com/watch?v=RopNTbuDpfI
+
+#### 4. Открытое собеседование на Go-разработчика | Тренировочные интервью
+  https://youtu.be/sZSNf5eVnRA?t=198

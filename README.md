@@ -252,3 +252,7 @@ https://dou.ua/lenta/articles/interview-questions-go-developer/
 
 #### 4. Открытое собеседование на Go-разработчика | Тренировочные интервью
   https://youtu.be/sZSNf5eVnRA?t=198
+
+#### 5. Безопасность в Golang | Навыки
+  https://www.youtube.com/watch?v=UfeZ-bPFs10
+  https://github.com/skinass/go-sec

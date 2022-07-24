@@ -256,3 +256,7 @@ https://dou.ua/lenta/articles/interview-questions-go-developer/
 #### 5. Безопасность в Golang | Навыки
   https://www.youtube.com/watch?v=UfeZ-bPFs10
   https://github.com/skinass/go-sec
+
+#### 6. Как готовиться к техническому собеседованию на позицию Golang-разработчика? (2020)
+  https://www.youtube.com/watch?v=FNMddHRPc9U
+
